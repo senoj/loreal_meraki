@@ -4,7 +4,7 @@ import mapboxgl from 'mapbox-gl';
 import supercluster from 'supercluster';
 import { featureCollection } from '@turf/helpers';
 
-mapboxgl.accessToken = 'pk.eyJ1Ijoic2Vub2oiLCJhIjoiY2o4eDZha2N6MXcyMjM4bjV6czN5Z2tqbiJ9.t0gGMa732U8ZiGbeihYG4w';
+mapboxgl.accessToken = removed;
 
 function component() {
   const element = document.createElement('div');
